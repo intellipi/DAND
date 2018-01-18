@@ -1,0 +1,44 @@
+******************
+*** REFERENCES ***
+******************
+
+
+1. Train / Test Split:
+http://scikit-learn.org/stable/modules/generated/sklearn.model_selection.StratifiedShuffleSplit.html
+http://docs.w3cub.com/scikit_learn/modules/generated/sklearn.model_selection.stratifiedshufflesplit/
+
+
+2. Preprocessing:
+http://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.MinMaxScaler.html
+http://scikit-learn.org/stable/modules/generated/sklearn.feature_selection.SelectKBest.html
+http://scikit-learn.org/stable/modules/generated/sklearn.decomposition.PCA.html
+
+
+3. Models:
+http://scikit-learn.org/stable/modules/generated/sklearn.naive_bayes.GaussianNB.html
+http://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html
+http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.AdaBoostClassifier.html
+http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html
+
+
+4. Parameters Selection:
+http://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html
+
+
+5. Pipeline / Workflows:
+https://www.civisanalytics.com/blog/workflows-in-python-using-pipeline-and-gridsearchcv-for-more-compact-and-comprehensive-code/
+http://zacstewart.com/2014/08/05/pipelines-of-featureunions-of-pipelines.html
+
+
+6. Evaluation Metrics:
+http://scikit-learn.org/stable/modules/classes.html#module-sklearn.metrics
+
+
+7. Other
+https://en.wikipedia.org/wiki/Bias%E2%80%93variance_tradeoff
+https://en.wikipedia.org/wiki/Overfitting
+
+
+I hereby confirm that this submission is my work. 
+I have cited above the origins of any parts of the submission that were taken from websites, books, forums, blog posts, GitHub repositories, etc.
+
