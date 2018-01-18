@@ -1,4 +1,10 @@
-## Summary
+# Data Visualization using D3.js
+
+## Project Goal
+
+Create a data visualization from a data set that tells a story or highlights trends or patterns in the data. Use either dimple.js or d3.js to create the visualization. Your work should be a reflection of the theory and practice of data visualization, such as visual encodings, design principles, and effective communication.
+
+## Project Summary
 
 After the most violent mass shooting in modern US history, kiling 58 and injuring 527 people in Las Vegas, October 2017, a lot of attention was once more drawn to the causes leading to such acts.
 The aim of this graph is to shed some light on the subject, which in the past decade seem more frequent than ever.  <p>
