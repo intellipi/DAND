@@ -4,6 +4,9 @@ Daniel de Carvalho Rust
 
 ## Index:
 
+#### P1 - Test a Perceptual Phenomenon
+Descriptive statistics and t-test to analyze results of experimental psychology.
+
 #### P2 - Investigate a Dataset
 Titanic dataset analysis using Pandas and Numpy.
 
