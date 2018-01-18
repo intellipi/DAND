@@ -1,0 +1,310 @@
+id	location	city_county	state	state_name	date	year	fatalities	injured	total_victims	mental_health_issues	race	gender	lat	lon
+1	Las Vegas, NV	Las Vegas	NV	Nevada	October 1, 2017	2017	58	527	585	Unclear	White	Male	36.181271	-115.134132
+2	San Francisco, CA	San Francisco	CA	California	June 14, 2017	2017	3	2	5	Yes	Asian	Male	37.7576793	-122.5076406
+3	Tunkhannock, PA	Tunkhannock	PA	Pennsylvania	June 7, 2017	2017	3	0	3	Unclear	White	Male	41.5428341	-75.9579603
+4	Orlando, FL	Orlando	FL	Florida	June 5, 2017	2017	5	0	5	Unclear	White	Male	28.4810971	-81.508838
+5	Kirkersville, OH	Kirkersville	OH	Ohio	May 12, 2017	2017	3	0	3	Yes	White	Male	39.9506692	-82.6169556
+6	Fresno, CA	Fresno	CA	California	April 18, 2017	2017	3	0	3	Unclear	African American	Male	36.7854513	-119.9346483
+7	Fort Lauderdale, FL	Fort Lauderdale	FL	Florida	January 6, 2017	2017	5	6	11	Yes	Latino	Male	26.1410956	-80.215608
+8	Burlington, WA	Burlington	WA	Washington	September 23, 2016	2016	5	0	5	Yes	Some other race	Male	48.4688576	-122.3667736
+9	Baton Rouge, LA	Baton Rouge	LA	Louisiana	July 17, 2016	2016	3	3	6	Yes	African American	Male	30.4413992	-91.2515063
+10	Dallas, TX	Dallas	TX	Texas	July 7, 2016	2016	5	11	16	Unclear	African American	Male	32.8203525	-97.0117408
+11	Orlando, FL	Orlando	FL	Florida	June 12, 2016	2016	49	53	102	Unclear	Asian	Male	28.4810971	-81.508838
+12	Ferguson, MO	Ferguson	MO	Missouri	April 29, 2016	2016	0	4	4	Unknown	Unknown	Unknown	38.744217	-90.305391
+13	Forestville, MD	Forestville	MD	Maryland	April 26, 2016	2016	1	4	5	Unknown	Unknown	Unknown	38.845113	-76.874972
+14	Halifax, VA	Halifax	VA	Virginia	April 24, 2016	2016	0	6	6	Unknown	African American	Male	36.765971	-78.928344
+15	Baltimore, MD	Baltimore	MD	Maryland	April 21, 2016	2016	0	4	4	Unknown	African American	Male	39.290385	-76.612189
+16	Chicago, IL	Chicago	IL	Illinois	April 19, 2016	2016	1	4	5	Unknown	Unknown	Unknown	41.878114	-87.629798
+17	Houston, TX	Houston	TX	Texas	April 19, 2016	2016	4	0	4	Unknown	White	Male	29.785785	-95.824396
+18	Blountsville, AL	Blountsville	AL	Alabama	April 19, 2016	2016	1	4	5	Yes	White	Male	34.16204	-86.475543
+19	Long Beach, CA	Long Beach	CA	California	April 18, 2016	2016	1	3	4	Unknown	Unknown	Unknown	33.77005	-118.193739
+20	Albuquerque, NM	Albuquerque	NM	New Mexico	April 9, 2016	2016	0	4	4	Unknown	White	Male	35.085334	-106.605553
+21	Memphis, TN	Memphis	TN	Tennessee	April 9, 2016	2016	0	4	4	Unknown	Unknown	Unknown	35.149534	-90.04898
+22	Chicago, IL	Chicago	IL	Illinois	April 7, 2016	2016	0	5	5	Unknown	Unknown	Unknown	41.878114	-87.629798
+23	Albuquerque, NM	Albuquerque	NM	New Mexico	April 1, 2016	2016	3	1	4	Unknown	Asian	Male	35.085334	-106.605553
+24	Richmond, VA	Richmond	VA	Virginia	March 31, 2016	2016	2	0	2	Unknown	African American	Male	37.540725	-77.436048
+25	Louisburg, NC	Louisburg	NC	North Carolina	March 26, 2016	2016	3	0	3	Unknown	African American	Male	36.099039	-78.301106
+27	Greenhill, AL	Greenhill	AL	Alabama	March 25, 2016	2016	2	2	4	Yes	White	Male	34.759257	-86.602493
+28	Sherman, TX	Sherman	TX	Texas	March 21, 2016	2016	4	0	4	Unknown	Unknown	Male	33.635662	-96.60888
+29	Louisville, KY	Louisville	KY	Kentucky	March 20, 2016	2016	4	0	4	Yes	White	Male	38.252665	-85.758456
+30	Plantation, FL	Plantation	FL	Florida	March 19, 2016	2016	1	4	5	Unknown	Unknown	Unknown	26.127586	-80.233104
+31	Wetumpka, AL	Wetumpka	AL	Alabama	March 19, 2016	2016	2	2	4	Unknown	African American	Male	32.543745	-86.211913
+32	Atlanta, GA	Atlanta	GA	Georgia	March 15, 2016	2016	0	4	4	Unknown	Unknown	Unknown	33.748995	-84.387982
+33	Fort Myers, FL	Fort Myers	FL	Florida	March 13, 2016	2016	0	4	4	Unknown	Unknown	Unknown	26.640628	-81.872308
+34	Elberton, GA	Elberton	GA	Georgia	March 12, 2016	2016	2	2	4	Unknown	Unknown	Male	34.111223	-82.867084
+35	Trenton, NJ	Trenton	NJ	New Jersey	March 11, 2016	2016	0	5	5	Unknown	Unknown	Unknown	40.217053	-74.742938
+36	Detroit, MI	Detroit	MI	Michigan	March 11, 2016	2016	2	2	4	Unknown	Unknown	Unknown	42.331427	-83.045754
+38	Wilkinsburg, PA	Wilkinsburg	PA	Pennsylvania	March 9, 2016	2016	5	3	8	Unknown	Unknown	Male	40.441736	-79.881994
+39	Kansas City, KS	Kansas City	KS	Kansas	March 7, 2016	2016	5	0	5	Unknown	Unknown	Male	39.114053	-94.627464
+40	Lafayette, LA	Lafayette	LA	Louisiana	March 7, 2016	2016	0	4	4	Unknown	Unknown	Unknown	30.22409	-92.019843
+42	Chelsea, MA	Chelsea	MA	Massachusetts	March 6, 2016	2016	1	6	7	Unknown	Some other race	Male	42.391764	-71.032828
+43	Roswell, GA	Roswell	GA	Georgia	March 6, 2016	2016	0	4	4	Unknown	African American	Male	34.023243	-84.361556
+44	Wichita, KS	Wichita	KS	Kansas	March 5, 2016	2016	0	4	4	Unknown	Unknown	Unknown	37.687176	-97.330053
+45	Detroit, MI	Detroit	MI	Michigan	February 28, 2016	2016	0	5	5	Unknown	African American	Male	42.331427	-83.045754
+46	Riverside, CA	Riverside	CA	California	February 28, 2016	2016	1	3	4	Unknown	Some other race	Male	33.997197	-117.48548
+47	Woodbridge, VA	Woodbridge	VA	Virginia	February 27, 2016	2016	2	2	4	Unknown	African American	Male	38.6697	-77.3524
+48	Belfair, WA	Belfair	WA	Washington	February 26, 2016	2016	5	0	5	Unknown	White	Male	47.5033	-122.931
+50	Hesston, KS	Hesston	KS	Kansas	February 25, 2016	2016	4	14	18	Unknown	African American	Male	38.1368	-97.4268
+51	Belfair, WA	Belfair	WA	Washington	February 25, 2016	2016	5	0	5	Unknown	White	Male	47.451459	-122.826946
+52	Glendale, AZ	Glendale	AZ	Arizona	February 23, 2016	2016	5	0	5	Unknown	White	Male	33.448377	-112.074037
+53	Hazelwood, MO	Hazelwood	MO	Missouri	February 21, 2016	2016	1	3	4	Unknown	African American	Male	38.77144	-90.370949
+54	Houston, TX	Houston	TX	Texas	February 21, 2016	2016	0	5	5	Unknown	Unknown	Unknown	29.760427	-95.369803
+56	Iuka, MS	Iuka	MS	Mississippi	February 20, 2016	2016	2	3	5	Unknown	White	Male	34.7404	-88.1383
+57	Tampa, FL	Tampa	FL	Florida	February 20, 2016	2016	1	3	4	Unknown	Unknown	Unknown	27.950575	-82.457178
+58	Kalamazoo, MI	Kalamazoo	MI	Michigan	February 20, 2016	2016	6	2	8	No	White	Male	42.291707	-85.587229
+59	Vallejo, CA	Vallejo	CA	California	February 19, 2016	2016	2	2	4	Unknown	Unknown	Unknown	38.104086	-122.256637
+60	Muskegon, MI	Muskegon	MI	Michigan	February 9, 2016	2016	0	3	3	Unknown	African American	Male	43.201126	-86.238946
+61	Orlando, FL	Orlando	FL	Florida	February 7, 2016	2016	2	10	12	Unknown	Some other race	Male	28.4541	-81.4646
+62	Rochester, NY	Rochester	NY	New York	February 7, 2016	2016	1	7	8	Unknown	Unknown	Unknown	43.16103	-77.610922
+63	Tampa, FL	Tampa	FL	Florida	February 6, 2016	2016	2	6	8	Unknown	Unknown	Unknown	27.950575	-82.457178
+64	Los Angeles, CA	Los Angeles	CA	California	February 6, 2016	2016	1	3	4	Unknown	Unknown	Unknown	34.052234	-118.243685
+65	Uvalde, TX	Uvalde	TX	Texas	February 6, 2016	2016	4	0	4	Unknown	White	Male	29.209684	-99.786168
+66	New Orleans, LA	New Orleans	LA	Louisiana	January 31, 2016	2016	0	3	3	Unknown	African American	Male	29.951066	-90.071532
+67	Glendale, AZ	Glendale	AZ	Arizona	January 30, 2016	2016	3	5	8	Unknown	Unknown	Male	33.538652	-112.185987
+68	Caroline, VA	Caroline	VA	Virginia	January 29, 2016	2016	2	2	4	Unknown	Unknown	Male	38.044556	-77.286488
+69	Chesapeake, VA	Chesapeake	VA	Virginia	January 27, 2016	2016	6	0	6	Yes	White	Male	36.7921	-76.3293
+70	Perris, CA	Perris	CA	California	January 25, 2016	2016	1	4	5	Unknown	Unknown	Male	33.782519	-117.228648
+71	Crestview, FL	Crestview	FL	Florida	January 23, 2016	2016	3	0	3	Unknown	White	Male	30.754181	-86.572799
+72	Los Angeles, CA	Los Angeles	CA	California	January 23, 2016	2016	2	2	4	Unknown	Unknown	Unknown	34.052234	-118.243685
+73	Gloucester, VA	Gloucester	VA	Virginia	January 17, 2016	2016	1	3	4	Unknown	African American	Male	37.40264	-76.458559
+74	Wilmington, DE	Wilmington	DE	Delaware	January 11, 2016	2016	1	4	5	Unknown	African American	Male	39.739072	-75.539788
+75	Memphis, TN	Memphis	TN	Tennessee	January 7, 2016	2016	1	3	4	Unknown	Unknown	Unknown	35.149534	-90.04898
+76	Lakeland, FL	Lakeland	FL	Florida	January 6, 2016	2016	3	1	4	Unknown	African American	Male	28.039465	-81.949804
+77	Omaha, NE	Omaha	NE	Nebraska	December 6, 2015	2015	2	3	5	Unknown	African American	Male	41.3138	-96.0814
+79	San Bernardino, CA	San Bernardino	CA	California	December 2, 2015	2015	16	21	37	Unknown	Asian	Male/Female	34.13973446	-117.2942444
+80	Colorado Springs, CO	Colorado Springs	CO	Colorado	November 27, 2015	2015	3	9	12	Unclear	White	Male	38.8753496	-105.38554
+81	Columbus, OH	Columbus	OH	Ohio	November 23, 2015	2015	4	1	5	Unknown	White	Male	39.98861445	-82.98904135
+82	Minneapolis, MN	Minneapolis	MN	Minnesota	November 23, 2015	2015	0	5	5	Unknown	White	Male	44.96358722	-93.26783687
+83	Tennessee Colony, TX	Tennessee Colony	TX	Texas	November 15, 2015	2015	6	0	6	Unknown	White	Male	31.8076	-95.8069
+84	Jacksonville, FL	Jacksonville	FL	Florida	November 13, 2015	2015	4	1	5	Unknown	African American	Male	30.33216122	-81.67576993
+85	Waycross, GA	Waycross	GA	Georgia	November 7, 2015	2015	1	2	3	Yes	African American	Male	31.21094544	-82.35793452
+86	Oakland, ME	Oakland	ME	Maine	November 4, 2015	2015	4	0	4	Unknown	Unknown	Male	44.54994725	-69.70782299
+87	Colorado Springs, CO	Colorado Springs	CO	Colorado	October 31, 2015	2015	4	0	4	Unknown	White	Male	38.86730659	-104.7572279
+88	Colerain Township, OH	Colerain Township	OH	Ohio	October 21, 2015	2015	2	1	3	Unknown	White	Male	39.253268	-84.599655
+89	Flagstaff, AZ	Flagstaff	AZ	Arizona	October 9, 2015	2015	1	3	4	Unknown	White	Male	35.1725658	-111.6585435
+90	Roseburg, OR	Roseburg	OR	Oregon	October 1, 2015	2015	10	7	17	Unknown	Two or more races	Male	43.22205555	-123.3522367
+91	Inglis, FL	Inglis	FL	Florida	October 1, 2015	2015	3	1	4	Unknown	White	Male	29.03270634	-82.65919302
+92	Greenville, GA	Greenville	GA	Georgia	September 27, 2015	2015	0	10	10	Unknown	African American	Male	33.02912644	-84.7143335
+93	Platte, SD	Platte	SD	South Dakota	September 17, 2015	2015	6	0	6	Unknown	White	Male	43.38682722	-98.84357239
+94	Clearbrook (Greenwood), MN	Clearbrook (Greenwood)	MN	Minnesota	September 10, 2015	2015	5	0	5	Yes	White	Male	47.69618799	-95.42844094
+95	Bristol, TN	Bristol	TN	Tennessee	August 29, 2015	2015	3	1	4	Unknown	White	Male	36.55605824	-82.21429551
+96	Roanoke, VA	Roanoke	VA	Virginia	August 26, 2015	2015	3	1	4	Unknown	African American	Male	37.27823366	-79.95816104
+97	Rochester, NY	Rochester	NY	New York	August 19, 2015	2015	3	4	7	Unknown	African American	Male	43.1696837	-77.614337
+98	Houston, TX	Houston	TX	Texas	August 8, 2015	2015	8	0	8	Unknown	African American	Male	29.79705548	-95.36763856
+99	Lafayette, LA	Lafayette	LA	Louisiana	July 23, 2015	2015	3	9	12	Yes	White	Male	30.21233538	-92.0316453
+100	Suwanee, GA	Suwanee	GA	Georgia	July 22, 2015	2015	4	1	5	Unknown	White	Male	34.05057545	-84.06872262
+101	Chattanooga, TN	Chattanooga	TN	Tennessee	July 16, 2015	2015	5	3	8	Yes	White	Male	35.09318123	-85.23676751
+102	River Forest, IL	River Forest	IL	Illinois	July 12, 2015	2015	2	3	5	Unknown	Unknown	Male	41.89499946	-87.81941392
+103	Morven, NC	Morven	NC	North Carolina	June 20, 2015	2015	0	4	4	Unknown	African American	Male	34.86379864	-79.9996781
+104	Charleston, SC	Charleston	SC	South Carolina	June 17, 2015	2015	9	1	10	unknown	White	Male	32.788387	-79.933143
+105	Miami Gardens, FL	Miami Gardens	FL	Florida	June 16, 2015	2015	0	4	4	Unknown	African American	Male	25.94326707	-80.24253243
+106	Menasha, WI	Menasha	WI	Wisconsin	June 11, 2015	2015	3	1	4	Yes	Latino	Male	44.2153132	-88.4550615
+107	Deer Lodge, MT	Deer Lodge	MT	Montana	June 7, 2015	2015	5	0	5	Unknown	White	Male	46.39761858	-112.7329333
+108	Cleveland, OH	Cleveland	OH	Ohio	May 31, 2015	2015	3	1	4	Unknown	Unknown	Male	41.47657557	-81.68051502
+109	Conyers, GA	Conyers	GA	Georgia	May 31, 2015	2015	3	2	5	Unknown	White	Male	33.66086267	-84.02688527
+110	Decatur, IL	Decatur	IL	Illinois	May 25, 2015	2015	1	4	5	Unknown	African American	Male	39.85566372	-88.93346458
+111	Tucson, AZ	Tucson	AZ	Arizona	May 12, 2015	2015	5	0	5	Yes	Unknown	Male	32.15358905	-110.9677647
+112	Newark, NJ	Newark	NJ	New Jersey	May 10, 2015	2015	1	3	4	Unknown	African American	Male	40.73169648	-74.18417699
+113	Menasha, WI	Menasha	WI	Wisconsin	May 3, 2015	2015	4	1	5	Yes	Unknown	Male	44.20455909	-88.4484585
+114	Milwaukee, WI	Milwaukee	WI	Wisconsin	May 1, 2015	2015	2	3	5	No	Unknown	Male	43.06420322	-87.96724385
+115	Gates, NY	Gates	NY	New York	April 25, 2015	2015	1	6	7	Unknown	African American	Male	43.15693027	-77.69300856
+116	Killeen, TX	Killeen	TX	Texas	April 21, 2015	2015	2	3	5	Unknown	African American	Male	31.07925506	-97.73392317
+117	Phoenix, AZ	Phoenix	AZ	Arizona	April 16, 2015	2015	5	0	5	Unknown	Some other race	Male	33.57145875	-112.0904854
+118	Rome, GA	Rome	GA	Georgia	April 7, 2015	2015	1	3	4	No	African American	Male	34.26779152	-85.18822422
+119	Indianapolis, IN	Indianapolis	IN	Indiana	April 5, 2015	2015	0	5	5	No	Unknown	Male	39.77725479	-86.14635359
+120	Daytona Beach, FL	Daytona Beach	FL	Florida	April 3, 2015	2015	0	4	4	No	African American	Male	29.19313443	-81.10173014
+121	Tulsa, OK	Tulsa	OK	Oklahoma	March 30, 2015	2015	4	0	4	Unknown	Asian	Male	36.13543238	-95.91316117
+122	Panama City Beach, FL	Panama City Beach	FL	Florida	March 28, 2015	2015	0	7	7	No	African American	Male	30.22540212	-85.87371301
+123	Little Water, NM	Little Water	NM	New Mexico	March 19, 2015	2015	2	2	4	Unknown	Unknown	Male	36.44329	-108.723281
+124	Mesa, AZ	Mesa	AZ	Arizona	March 18, 2015	2015	1	5	6	No	White	Male	33.42268696	-111.8163202
+125	Cottonwood, AL	Cottonwood	AL	Alabama	March 15, 2015	2015	3	1	4	No	White	Male	31.0549687	-85.30100084
+126	Brookhaven, MS	Brookhaven	MS	Mississippi	March 13, 2015	2015	2	3	5	Unknown	African American	Male	31.58036482	-90.44323475
+127	Tarboro, NC	Tarboro	NC	North Carolina	February 28, 2015	2015	4	0	4	Yes	African American	Male	35.90434471	-77.55639964
+128	Birmingham, AL	Birmingham	AL	Alabama	February 27, 2015	2015	1	2	3	No	African American	Male	33.5282865	-86.79550448
+129	Tyrone, MO	Tyrone	MO	Missouri	February 26, 2015	2015	8	1	9	No	White	Male	37.204442	-91.876583
+130	Charlotte, NC	Charlotte	NC	North Carolina	February 24, 2015	2015	3	0	3	No	Some other race	Male	35.226354	-80.836788
+131	Clarkesville, GA	Clarkesville	GA	Georgia	February 22, 2015	2015	3	2	5	No	White	Male	34.61025711	-83.52918091
+132	Killeen, TX	Killeen	TX	Texas	February 22, 2015	2015	4	1	5	No	African American	Male	31.07925506	-97.73392317
+133	Chapel Hill, NC	Chapel Hill	NC	North Carolina	February 10, 2015	2015	3	0	3	No	White	Male	35.92681467	-79.03850407
+134	New Port Richey, FL	New Port Richey	FL	Florida	February 9, 2015	2015	3	1	4	No	Two or more races	Male/Female	28.24653304	-82.71690259
+135	Monroeville, PA	Monroeville	PA	Pennsylvania	February 7, 2015	2015	0	3	3	No	African American	Male	40.4257455	-79.76092565
+136	Douglasville, GA	Douglasville	GA	Georgia	February 7, 2015	2015	5	2	7	No	African American	Male	33.71059292	-84.71564276
+137	King, NC	King	NC	North Carolina	February 4, 2015	2015	4	0	4	Unknown	White	Male	36.27617912	-80.35501402
+138	Syracuse, NY	Syracuse	NY	New York	February 1, 2015	2015	0	6	6	No	African American	Male	43.04093416	-76.14376763
+139	LaGrange, GA	LaGrange	GA	Georgia	January 28, 2015	2015	5	0	5	No	White	Male	33.03607062	-85.0287065
+140	New York City, NY	New York City	NY	New York	January 24, 2015	2015	4	1	5	No	African American	Male	40.68996411	-73.8720502
+141	Omaha, NE	Omaha	NE	Nebraska	January 24, 2015	2015	3	5	8	No	African American	Male	41.265922	-96.05381421
+142	Moscow, ID	Moscow	ID	Idaho	January 10, 2015	2015	3	1	4	No	Asian	Male	46.73059479	-116.9990042
+143	Memphis, TN	Memphis	TN	Tennessee	January 1, 2015	2015	0	5	5	No	African American	Male	35.10528976	-89.97734924
+144	Pennsburg, PA	Pennsburg	PA	Pennsylvania	December 15, 2014	2014	7	1	8	Yes	White	Male	40.39359306	-75.49640881
+145	Morgantown, WV	Morgantown	WV	West Virginia	December 1, 2014	2014	5	0	5	No	White	Male	39.63400851	-79.94839325
+146	Tallahassee, FL	Tallahassee	FL	Florida	November 19, 2014	2014	1	3	4	Yes	African American	Male	30.4549394	-84.25264151
+147	Marysville, WA	Marysville	WA	Washington	October 24, 2014	2014	5	1	6	No	Native American	Male	48.04802409	-122.1359622
+148	Albuquerque, NM	Albuquerque	NM	New Mexico	August 8, 2014	2014	2	3	5	No	Some other race	Male	35.15290522	-106.7791378
+149	New Orleans, LA	New Orleans	LA	Louisiana	June 29, 2014	2014	1	9	10	No	Two or more races	Male	30.0687242	-89.93147412
+150	Las Vegas, NV	Las Vegas	NV	Nevada	June 8, 2014	2014	5	0	5	No	White	Male/Female	36.18931923	-115.3264875
+151	Seattle, WA	Seattle	WA	Washington	June 5, 2014	2014	1	2	3	Yes	Some other race	Male	47.62199575	-122.323646
+152	Santa Barbara, CA	Santa Barbara	CA	California	May 23, 2014	2014	6	13	19	Yes	White	Male	34.3985671	-119.8198963
+153	Kennesaw, GA	Kennesaw	GA	Georgia	April 29, 2014	2014	1	6	7	No	White	Male	34.02529674	-84.61766831
+154	Fort Hood, TX	Fort Hood	TX	Texas	April 3, 2014	2014	3	12	15	Unclear	Latino	Male	31.1260311	-97.8387578
+155	Killeen, TX	Killeen	TX	Texas	April 2, 2014	2014	4	16	20	Yes	Some other race	Male	31.07925506	-97.73392317
+156	San Francisco, CA	San Francisco	CA	California	March 23, 2014	2014	0	8	8	No	African American	Male	37.75457839	-122.4424343
+157	Alturas, CA	Alturas	CA	California	February 20, 2014	2014	4	2	6	No	Native American	Female	41.4911123	-120.549091
+158	Montgomery, AL	Montgomery	AL	Alabama	December 28, 2013	2013	3	5	8	No	African American	Male	32.34729571	-86.26730242
+159	Los Angeles, CA	Los Angeles	CA	California	November 1, 2013	2013	1	3	4	No	White	Male	34.17622092	-118.5399542
+160	Sparks, NV	Sparks	NV	Nevada	October 21, 2013	2013	2	2	4	Unknown	Some other race	Male	39.54058388	-119.748291
+161	Washington, DC	Washington	DC	District of Columbia	September 16, 2013	2013	13	3	16	Yes	African American	Male	38.90480894	-77.01629717
+162	Oklahoma City, OK	Oklahoma City	OK	Oklahoma	August 14, 2013	2013	4	0	4	Yes	White	Male	35.46779189	-97.5191631
+163	Dallas, TX	Dallas	TX	Texas	August 7, 2013	2013	4	4	8	Unknown	African American	Male	32.79480596	-96.76631094
+164	Salisbury, PA	Salisbury	PA	Pennsylvania	August 5, 2013	2013	3	3	6	No	White	Male	39.75344279	-79.08435956
+165	Hialeah, FL	Hialeah	FL	Florida	July 26, 2013	2013	7	0	7	Unclear	Latino	Male	25.8670105	-80.29146268
+166	Santa Monica, CA	Santa Monica	CA	California	June 7, 2013	2013	6	3	9	Yes	White	Male	34.02319149	-118.4815644
+167	Manchester, IL	Manchester	IL	Illinois	April 24, 2013	2013	7	1	8	Unknown	White	Male	39.54231335	-90.33029852
+168	Federal Way, WA	Federal Way	WA	Washington	April 21, 2013	2013	5	0	5	Unknown	African American	Male	47.30909721	-122.3357553
+169	Mohawk, NY	Mohawk	NY	New York	March 13, 2013	2013	5	2	7	No	White	Male	43.0104011	-75.0075119
+170	Ladera Ranch, CA	Ladera Ranch	CA	California	February 19, 2013	2013	4	3	7	Yes	White	Male	33.54961059	-117.6415707
+171	Irvine, CA	Irvine	CA	California	February 3, 2013	2013	4	1	5	Yes	African American	Male	33.67803464	-117.773628
+172	Phoenix, AZ	Phoenix	AZ	Arizona	January 30, 2013	2013	3	1	4	Unknown	White	Male	33.57145875	-112.0904854
+173	South Valley, NM	South Valley	NM	New Mexico	January 19, 2013	2013	5	0	5	Yes	Some other race	Male	35.15290522	-106.7791378
+174	Newtown, CT	Newtown	CT	Connecticut	December 14, 2012	2012	28	2	30	Yes	White	Male	41.41190846	-73.31196267
+175	Happy Valley, OR	Happy Valley	OR	Oregon	December 11, 2012	2012	3	1	4	No	Some other race	Male	45.44853107	-122.5440133
+176	Brookfield, WI	Brookfield	WI	Wisconsin	October 21, 2012	2012	4	4	8	No	African American	Male	43.06396691	-88.12299758
+177	Miami, FL	Miami	FL	Florida	September 28, 2012	2012	0	15	15	Unknown	African American	Male	25.79653943	-80.20840397
+178	Minneapolis, MN	Minneapolis	MN	Minnesota	September 27, 2012	2012	7	2	9	Yes	White	Male	44.96358722	-93.26783687
+179	Oak Creek, WI	Oak Creek	WI	Wisconsin	August 5, 2012	2012	7	4	11	No	White	Male	42.88027442	-87.90087079
+180	Aurora, CO	Aurora	CO	Colorado	July 20, 2012	2012	12	70	82	Yes	White	Male	39.709283	-104.823488
+181	Auburn, AL	Auburn	AL	Alabama	June 9, 2012	2012	3	3	6	Unknown	African American	Male	32.60598014	-85.48989253
+182	Seattle, WA	Seattle	WA	Washington	May 30, 2012	2012	6	1	7	Yes	White	Male	47.62199575	-122.323646
+183	Seattle, WA	Seattle	WA	Washington	May 20, 2012	2012	6	1	7	Yes	White	Male	47.6038321	-122.3300624
+184	Tulsa, OK	Tulsa	OK	Oklahoma	April 6, 2012	2012	3	2	5	No	White	Male	36.13543238	-95.91316117
+185	Oakland, CA	Oakland	CA	California	April 2, 2012	2012	7	3	10	Yes	Asian	Male	37.8043808	-122.2708166
+186	Chardon, OH	Chardon	OH	Ohio	February 27, 2012	2012	3	3	6	Yes	White	Male	41.58025541	-81.20812625
+187	Norcross, GA	Norcross	GA	Georgia	February 22, 2012	2012	5	0	5	Yes	Asian	Male	33.9412127	-84.2135309
+188	Birmingham, AL	Birmingham	AL	Alabama	January 29, 2012	2012	5	0	5	No	African American	Male	33.5282865	-86.79550448
+189	Seal Beach, CA	Seal Beach	CA	California	October 12, 2011	2011	8	1	9	Yes	White	Male	33.75432632	-118.0715378
+190	Carson City, NV	Carson City	NV	Nevada	September 6, 2011	2011	5	7	12	Yes	Latino	Male	39.1637984	-119.7674034
+191	Grand Rapids, MI	Grand Rapids	MI	Michigan	July 7, 2011	2011	8	2	10	Yes	African American	Male	42.96920434	-85.66008902
+192	Opelika, AL	Opelika	AL	Alabama	April 6, 2011	2011	1	3	4	Yes	White	Male	32.66240106	-85.37706931
+193	Youngstown, OH	Youngstown	OH	Ohio	February 6, 2011	2011	1	11	12	Unknown	African American	Male	41.09933958	-80.64631705
+194	Tucson, AZ	Tucson	AZ	Arizona	January 8, 2011	2011	6	13	19	Yes	White	Male	32.2217429	-110.926479
+195	Manchester, CT	Manchester	CT	Connecticut	August 3, 2010	2010	9	2	11	No	African American	Male	41.7759324	-72.5214755
+196	Huntsville, AL	Huntsville	AL	Alabama	February 12, 2010	2010	3	3	6	No	White	Female	34.72827538	-86.6723055
+198	Lakewood, WA	Lakewood	WA	Washington	November 29, 2009	2009	5	0	5	Yes	African American	Male	47.16267579	-122.5296574
+199	Fort Hood, TX	Fort Hood	TX	Texas	November 5, 2009	2009	13	32	45	Yes	White	Male	31.13814354	-97.77797804
+200	Binghamton, NY	Binghamton	NY	New York	April 3, 2009	2009	14	4	18	Yes	Asian	Male	42.0986867	-75.9179738
+202	Santa Clara, CA	Santa Clara	CA	California	March 29, 2009	2009	6	1	7	No	Asian	Male	37.36463172	-121.9679315
+203	Carthage, NC	Carthage	NC	North Carolina	March 29, 2009	2009	8	2	10	Yes	White	Male	35.33985609	-79.41381725
+204	Geneva, AL	Geneva	AL	Alabama	March 10, 2009	2009	11	6	17	No	White	Male	31.04367594	-85.8763466
+205	Covina, CA	Covina	CA	California	December 24, 2008	2008	10	2	12	No	White	Male	34.09026669	-117.8819958
+206	Conway, AR	Conway	AR	Arkansas	October 26, 2008	2008	2	1	3	No	African American	Male	35.08130744	-92.43278275
+207	Phoenix, AZ	Phoenix	AZ	Arizona	July 24, 2008	2008	0	3	3	No	African American	Male	33.57145875	-112.0904854
+208	Henderson, KY	Henderson	KY	Kentucky	June 25, 2008	2008	7	1	8	No	White	Male	37.84040411	-87.57853755
+209	DeKalb, IL	DeKalb	IL	Illinois	February 14, 2008	2008	5	21	26	Yes	White	Male	41.9294736	-88.7503647
+210	Kirkwood, MO	Kirkwood	MO	Missouri	February 7, 2008	2008	6	2	8	No	African American	Male	38.57889169	-90.42023754
+211	Carnation, WA	Carnation	WA	Washington	December 24, 2007	2007	6	0	6	No	White	Male/Female	47.64628742	-121.9088524
+212	Las Vegas, NV	Las Vegas	NV	Nevada	December 11, 2007	2007	0	6	6	No	African American	Male	36.18931923	-115.3264875
+213	Arvada, CO	Arvada	CO	Colorado	December 9, 2007	2007	5	5	10	No	White	Male	39.81087474	-105.173715
+214	Omaha, NE	Omaha	NE	Nebraska	December 5, 2007	2007	9	4	13	Yes	White	Male	41.2587317	-95.9378732
+215	Saginaw, MI	Saginaw	MI	Michigan	October 25, 2007	2007	0	4	4	No	African American	Male	43.41929117	-83.95032759
+216	Cleveland, OH	Cleveland	OH	Ohio	October 11, 2007	2007	1	4	5	Yes	White	Male	41.47657557	-81.68051502
+217	Crandon, WI	Crandon	WI	Wisconsin	October 7, 2007	2007	6	1	7	Unclear	White	Male	45.5719072	-88.9028922
+218	Blacksburg, VA	Blacksburg	VA	Virginia	April 16, 2007	2007	32	23	55	Yes	Asian	Male	37.2295733	-80.4139393
+219	Gresham, OR	Gresham	OR	Oregon	April 10, 2007	2007	0	10	10	No	Some other race	Male	45.50216511	-122.4412759
+220	Salt Lake City, UT	Salt Lake City	UT	Utah	February 12, 2007	2007	6	4	10	Unknown	White	Male	40.77787404	-111.9312168
+222	Nickel Mines, PA	Nickel Mines	PA	Pennsylvania	October 2, 2006	2006	6	5	11	Unknown	White	Male	40.04214385	-76.30100872
+223	Pittsburgh, PA	Pittsburgh	PA	Pennsylvania	September 17, 2006	2006	0	5	5	Unknown	African American	Male	40.43948548	-79.97631581
+224	Hillsborough, NC	Hillsborough	NC	North Carolina	August 30, 2006	2006	1	2	3	Yes	Some other race	Male	36.04099857	-79.09701201
+225	Essex Junction, VT	Essex Junction	VT	Vermont	August 24, 2006	2006	2	2	4	Yes	African American	Male	44.49022039	-73.11400628
+226	Seattle, WA	Seattle	WA	Washington	March 25, 2006	2006	7	2	9	No	White	Male	47.6229	-122.3165
+227	Goleta, CA	Goleta	CA	California	January 30, 2006	2006	8	0	8	Yes	White	Female	34.43606107	-119.8593619
+228	Red Lake, MN	Red Lake	MN	Minnesota	March 21, 2005	2005	10	5	15	Yes	Native American	Male	47.87067289	-95.00529009
+229	Brookfield, WI	Brookfield	WI	Wisconsin	March 12, 2005	2005	8	4	12	No	White	Male	43.06396691	-88.12299758
+230	Tyler, TX	Tyler	TX	Texas	February 24, 2005	2005	3	4	7	Unknown	Some other race	Male	32.3154272	-95.30501087
+231	Columbus, OH	Columbus	OH	Ohio	December 8, 2004	2004	5	7	12	Yes	White	Male	39.98861445	-82.98904135
+232	Birchwood, WI	Birchwood	WI	Wisconsin	November 21, 2004	2004	6	2	8	No	Asian	Male	45.65773714	-91.55077175
+233	Chicago, IL	Chicago	IL	Illinois	August 27, 2003	2003	7	0	7	No	Some other race	Male	41.83928045	-87.68818145
+234	Meridian, MS	Meridian	MS	Mississippi	July 8, 2003	2003	7	8	15	Yes	White	Male	32.376081	-88.68978002
+235	Cleveland, OH	Cleveland	OH	Ohio	May 9, 2003	2003	1	2	3	No	Asian	Male	41.47657557	-81.68051502
+236	Tucson, AZ	Tucson	AZ	Arizona	October 28, 2002	2002	4	0	4	No	Some other race	Male	32.15358905	-110.9677647
+237	Grundy, VA	Grundy	VA	Virginia	January 16, 2002	2002	3	3	6	No	African American	Male	37.27537712	-82.09877234
+238	Santee, CA	Santee	CA	California	March 5, 2001	2001	2	13	15	No	White	Male	32.86357277	-117.1281628
+239	Melrose Park, IL	Melrose Park	IL	Illinois	February 5, 2001	2001	6	4	10	No	African American	Male	41.90289602	-87.8643021
+240	Wakefield, MA	Wakefield	MA	Massachusetts	December 26, 2000	2000	7	0	7	Yes	White	Male	42.506484	-71.0728306
+241	Tampa, FL	Tampa	FL	Florida	December 30, 1999	1999	5	3	8	No	Some other race	Male	27.99601861	-82.44503769
+242	Fort Gibson, OK	Fort Gibson	OK	Oklahoma	December 6, 1999	1999	0	4	4	No	White	Male	35.77669911	-95.25996596
+243	Honolulu, HI	Honolulu	HI	Hawaii	November 2, 1999	1999	7	0	7	Yes	Asian	Male	21.3255125	-157.8473055
+244	Fort Worth, TX	Fort Worth	TX	Texas	September 15, 1999	1999	8	7	15	Yes	White	Male	32.74802142	-97.31305148
+245	Atlanta, GA	Atlanta	GA	Georgia	July 29, 1999	1999	10	12	22	Yes	White	Male	33.7629969	-84.4231328
+246	Conyers, GA	Conyers	GA	Georgia	May 20, 1999	1999	0	6	6	No	White	Male	33.66086267	-84.02688527
+247	Littleton, CO	Littleton	CO	Colorado	April 20, 1999	1999	15	24	39	Yes	White	Male	39.59358263	-105.0152112
+248	Riverside, CA	Riverside	CA	California	October 6, 1998	1998	0	6	6	No	African American	Male	33.93814348	-117.3948409
+249	Springfield, OR	Springfield	OR	Oregon	May 21, 1998	1998	4	25	29	Yes	White	Male	44.05489698	-123.0075562
+250	Edinboro, PA	Edinboro	PA	Pennsylvania	April 24, 1998	1998	1	3	4	Yes	White	Male	41.87617136	-80.12459632
+251	Jonesboro, AR	Jonesboro	AR	Arkansas	March 24, 1998	1998	5	10	15	No	White	Male	35.8209895	-90.6682606
+252	Newington, CT	Newington	CT	Connecticut	March 6, 1998	1998	5	0	5	Yes	White	Male	41.68700845	-72.73083927
+253	Milwaukee, WI	Milwaukee	WI	Wisconsin	December 19, 1997	1997	2	2	4	No	African American	Male	43.06420322	-87.96724385
+254	Orange, CA	Orange	CA	California	December 18, 1997	1997	5	2	7	No	Some other race	Male	33.78935598	-117.820412
+255	West Paducah, KY	West Paducah	KY	Kentucky	December 1, 1997	1997	3	5	8	Yes	White	Male	37.08506	-88.74422
+256	Pearl, MS	Pearl	MS	Mississippi	October 1, 1997	1997	2	7	9	Yes	White	Male	32.27492783	-90.09470655
+257	Aiken, SC	Aiken	SC	South Carolina	September 15, 1997	1997	4	3	7	No	African American	Male	33.47524551	-81.72595949
+258	Bethel, AK	Bethel	AK	Alaska	February 19, 1997	1997	2	2	4	Yes	White	Male	60.79053882	-161.7927517
+259	San Diego, CA	San Diego	CA	California	August 15, 1996	1996	3	0	3	No	White	Male	32.86357277	-117.1281628
+260	Fort Lauderdale, FL	Fort Lauderdale	FL	Florida	February 9, 1996	1996	6	1	7	Yes	African American	Male	26.1223084	-80.1433786
+261	Moses Lake, WA	Moses Lake	WA	Washington	February 2, 1996	1996	3	1	4	Yes	White	Male	47.12189424	-119.2750699
+262	Lynnville, TN	Lynnville	TN	Tennessee	November 15, 1995	1995	2	1	3	Yes	White	Male	35.37810374	-87.00610559
+263	Corpus Christi, TX	Corpus Christi	TX	Texas	April 3, 1995	1995	6	0	6	No	Unknown	Male	27.73907518	-97.43073352
+264	Montclair, NJ	Montclair	NJ	New Jersey	March 21, 1995	1995	4	1	5	No	White	Male	40.826184	-74.20862
+265	Chapel Hill, NC	Chapel Hill	NC	North Carolina	January 26, 1995	1995	2	2	4	Yes	White	Male	35.92681467	-79.03850407
+266	Brookline, MA	Brookline	MA	Massachusetts	December 30, 1994	1994	2	5	7	Yes	White	Male	42.32427392	-71.14080012
+267	Wickliffe, OH	Wickliffe	OH	Ohio	November 7, 1994	1994	1	3	4	Yes	White	Male	41.60713735	-81.46902046
+268	Fairchild Air Force Base, WA	Fairchild Air Force Base	WA	Washington	June 20, 1994	1994	5	23	28	Yes	White	Male	47.618456	-117.644099
+269	Union, KY	Union	KY	Kentucky	May 26, 1994	1994	4	0	4	No	White	Male	38.95130818	-84.67066339
+270	Chelsea, MI	Chelsea	MI	Michigan	December 16, 1993	1993	1	2	3	Yes	White	Male	42.31319376	-84.01868108
+271	Aurora, CO	Aurora	CO	Colorado	December 14, 1993	1993	4	1	5	Yes	African American	Male	39.69892933	-104.7871863
+272	Garden City, NY	Garden City	NY	New York	December 7, 1993	1993	6	19	25	No	African American	Male	40.72662266	-73.644712
+273	Sheridan, WY	Sheridan	WY	Wyoming	September 17, 1993	1993	1	4	5	No	White	Male	44.79051074	-106.9599165
+274	Fayetteville, NC	Fayetteville	NC	North Carolina	August 6, 1993	1993	4	8	12	No	White	Male	35.07997086	-79.03796125
+275	Ogden, UT	Ogden	UT	Utah	July 8, 1993	1993	1	3	4	No	Asian	Male	41.2281367	-111.9675317
+276	San Francisco, CA	San Francisco	CA	California	July 1, 1993	1993	9	6	15	No	White	Male	37.75457839	-122.4424343
+277	Dearborn, MI	Dearborn	MI	Michigan	May 6, 1993	1993	2	2	4	Unknown	Unknown	Male	42.31269522	-83.21293244
+278	Dana Point, CA	Dana Point	CA	California	May 6, 1993	1993	1	5	6	Yes	White	Male	33.47316083	-117.696399
+279	Great Barrington, MA	Great Barrington	MA	Massachusetts	December 14, 1992	1992	2	4	6	No	Asian	Male	42.19358268	-73.36216339
+280	Watkins Glen, NY	Watkins Glen	NY	New York	October 15, 1992	1992	5	0	5	No	White	Male	42.38013875	-76.86724659
+281	Amarillo, TX	Amarillo	TX	Texas	September 11, 1992	1992	0	6	6	Unknown	Unknown	Male	35.18322484	-101.8805688
+282	Olivehurst, CA	Olivehurst	CA	California	May 1, 1992	1992	4	10	14	Yes	White	Male	39.08174985	-121.5549539
+283	Royal Oak, MI	Royal Oak	MI	Michigan	November 14, 1991	1991	5	5	10	Yes	White	Male	42.50840203	-83.15387427
+284	Iowa City, IA	Iowa City	IA	Iowa	November 1, 1991	1991	6	1	7	No	Asian	Male	41.65589405	-91.53117986
+285	Killeen, TX	Killeen	TX	Texas	October 16, 1991	1991	24	20	44	Yes	White	Male	31.07925506	-97.73392317
+286	Ridgewood, NJ	Ridgewood	NJ	New Jersey	October 10, 1991	1991	3	0	3	Yes	African American	Male	40.98213277	-74.11264731
+287	Phoenix, AZ	Phoenix	AZ	Arizona	August 9, 1991	1991	9	0	9	No	Two or more races	Male	33.57145875	-112.0904854
+288	Jacksonville, FL	Jacksonville	FL	Florida	June 17, 1990	1990	12	6	18	No	African American	Male	30.33216122	-81.67576993
+289	Louisville, KY	Louisville	KY	Kentucky	September 14, 1989	1989	9	12	21	Yes	White	Male	38.249432	-85.726243
+290	Escondido, CA	Escondido	CA	California	August 10, 1989	1989	4	1	5	No	White	Male	33.13439925	-117.0722528
+291	Stockton, CA	Stockton	CA	California	January 17, 1989	1989	6	30	36	Yes	White	Male	37.96631812	-121.3018775
+292	New Orleans, LA	New Orleans	LA	Louisiana	December 14, 1988	1988	0	4	4	Unknown	Unknown	Male	30.0687242	-89.93147412
+293	Greenwood, SC	Greenwood	SC	South Carolina	September 26, 1988	1988	2	9	11	Yes	White	Male	34.1928952	-82.15355508
+294	Chicago, IL	Chicago	IL	Illinois	September 22, 1988	1988	5	2	7	No	African American	Male	41.83928045	-87.68818145
+295	Winnetka, IL	Winnetka	IL	Illinois	May 20, 1988	1988	2	7	9	Yes	White	Female	42.10648807	-87.74211141
+296	Sunnyvale, CA	Sunnyvale	CA	California	February 16, 1988	1988	7	4	11	Yes	White	Male	37.38344257	-122.0256185
+297	Pinellas Park, FL	Pinellas Park	FL	Florida	February 11, 1988	1988	1	2	3	No	White	Male	27.84887061	-82.71058
+298	Palm Bay, FL	Palm Bay	FL	Florida	April 23, 1987	1987	6	14	20	Yes	White	Male	27.98388983	-80.66662713
+299	Lewistown, MT	Lewistown	MT	Montana	December 4, 1986	1986	1	3	4	Yes	White	Male	47.03740653	-109.4844918
+300	Edmond, OK	Edmond	OK	Oklahoma	August 20, 1986	1986	15	6	21	Yes	White	Male	35.66889223	-97.41438792
+301	Brooklyn, NY	Brooklyn	NY	New York	August 12, 1986	1986	1	4	5	Yes	African American	Male	40.679276	-73.939513
+302	Atlanta, GA	Atlanta	GA	Georgia	March 6, 1985	1985	2	1	3	Yes	African American	Male	33.7629969	-84.4231328
+303	Goddard, KS	Goddard	KS	Kansas	January 21, 1985	1985	1	3	4	Yes	White	Male	37.67129418	-97.55070476
+304	San Ysidro, CA	San Ysidro	CA	California	July 18, 1984	1984	22	19	41	Yes	White	Male	32.555556	-117.047656
+305	Dallas, TX	Dallas	TX	Texas	June 29, 1984	1984	6	1	7	Yes	White	Male	32.79480596	-96.76631094
+306	Los Angeles, CA	Los Angeles	CA	California	February 24, 1984	1984	3	12	15	Yes	African American	Male	34.17622092	-118.5399542
+307	Johnston, SC	Johnston	SC	South Carolina	August 19, 1983	1983	1	3	4	Yes	White	Male	33.83272887	-81.8051584
+308	Seattle, WA	Seattle	WA	Washington	February 18, 1983	1983	13	1	14	Unknown	Asian	Male	47.62199575	-122.323646
+309	Miami, FL	Miami	FL	Florida	August 20, 1982	1982	9	3	12	Yes	White	Male	25.79653943	-80.20840397
+310	Las Vegas, NV	Las Vegas	NV	Nevada	March 19, 1982	1982	1	2	3	Yes	White	Male	36.18931923	-115.3264875
+311	Columbia, SC	Columbia	SC	South Carolina	October 6, 1979	1979	2	5	7	Unknown	African American	Male	34.05098834	-80.82077527
+312	San Diego, CA	San Diego	CA	California	January 29, 1979	1979	2	9	11	Yes	White	Female	32.86357277	-117.1281628
+313	Fullerton, CA	Fullerton	CA	California	July 12, 1976	1976	7	2	9	Yes	White	Male	33.88404244	-117.92785
+314	Los Angeles, CA	Los Angeles	CA	California	February 19, 1976	1976	1	7	8	Unknown	White	Male	34.17622092	-118.5399542
+315	Olean, NY	Olean	NY	New York	December 30, 1974	1974	3	7	10	No	White	Male	42.08185369	-78.43213922
+316	Chicago, IL	Chicago	IL	Illinois	January 17, 1974	1974	1	3	4	Yes	Unknown	Male	41.83928045	-87.68818145
+317	New Orleans, LA	New Orleans	LA	Louisiana	December 31, 1972	1972	10	13	23	Yes	African American	Male	30.0687242	-89.93147412
+318	Spokane, WA	Spokane	WA	Washington	November 11, 1971	1971	2	4	6	Yes	White	Male	47.67367375	-117.4159843

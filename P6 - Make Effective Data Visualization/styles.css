@@ -1,0 +1,99 @@
+header {
+    padding: 0.4em;
+    color: white;
+    background-color: black;
+    clear: left;
+    text-align: center;
+}
+
+footer {
+    padding: 0.2em;
+    color: white;
+    background-color: black;
+    clear: left;
+    text-align: center;
+}
+
+section {
+    border-left: 1px solid gray;
+    border-right: 1px solid gray;
+    padding: 0.7em;
+    overflow: hidden;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+}
+
+
+
+/* On mouse hover, lighten state color */
+path:hover {
+    fill-opacity: .7;
+}
+
+.subtitle {
+    position:absolute;
+    left:1000px;
+    top:150px;
+}
+
+/* legend: what State colors represent? */
+.legend {
+    position:absolute;
+    left:1000px;
+    top:250px;
+}
+
+/* legend: what circle colors represent? */
+.circlelegend {
+    position:absolute;
+    left:1000px;
+    top:400px;
+}
+
+/* legend: what circle sizes represent? */
+.circlesizelegend circle {
+    fill: none;
+    stroke: #777;
+}
+
+.circlesizelegend text {
+    fill: #777;
+    font: 10px sans-serif;
+    text-anchor: middle;
+}
+
+.circlesizelegendtitle text {
+    fill: #777;
+    font: 20px sans-serif;
+    text-anchor: middle;
+}
+
+/* Tooltip Style*/
+div.tooltip {
+    position: absolute;
+    left:50px;
+    top:350px;
+    text-align: left;
+    width: 120px;
+    height: 75px;
+    padding: 2px;
+    font: 10px sans-serif;
+    background: white;
+    border: 0px;
+    border-radius: 8px;
+    pointer-events: none;
+}
+
+
+a:link {
+    color: white;
+    text-decoration: none;
+}
+
+a:visited {
+    color: white;
+    text-decoration: none;
+}
